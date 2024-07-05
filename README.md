@@ -1,6 +1,9 @@
 # Enhanced RAG (Retrieval Augmented Generation) with Re-Ranking
-https://blogs.nvidia.com/wp-content/uploads/2023/11/Retrieval-Augmented-Generation-RAG-KV-1.jpg
+
+![Enhanced RAG](https://blogs.nvidia.com/wp-content/uploads/2023/11/Retrieval-Augmented-Generation-RAG-KV-1.jpg)
+
 This repository contains an implementation of Enhanced Retrieval Augmented Generation (RAG) with a re-ranking mechanism using the CrossEncoder model. RAG combines retrieval and generation steps, making it possible to generate more accurate and relevant responses by leveraging a large corpus of documents. The re-ranking step further refines the retrieval process by prioritizing the most relevant documents.
+
 
 ## Features
 Retrieval-Augmented Generation (RAG): Combines retrieval of relevant documents and generation of coherent responses using state-of-the-art models.
